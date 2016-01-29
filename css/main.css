@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('https://launchrock-assets.s3.amazonaws.com/logo-files/H7T2OEKT_1407542213139.jpg?_=1');
+  background-image: url('https://launchrock-assets.s3.amazonaws.com/logo-files/H7T2OEKT_1407542213139.jpg?_=1');
   height: 600px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -19,9 +19,10 @@
 }
 
 .jumbotron .container {
-  position: relative;
-  top:60px;
-  left:130px;
+    dispay: block;
+    width: 80%;
+    margin-top: 5%;
+    padding-left: 10%;
 }
 
 .jumbotron h1 {
